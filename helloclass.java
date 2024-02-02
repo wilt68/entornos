@@ -1,3 +1,3 @@
 fichero helloclass.java
 
-introduzco nuevo texto
+introduzco nuevo texto modificado
